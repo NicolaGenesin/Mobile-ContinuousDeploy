@@ -1,5 +1,7 @@
 #### Mobile-ContinuousDeploy
 
+![](https://travis-ci.org/NicolaGenesin/Mobile-ContinuousDeploy.svg?branch=master)
+
 ![](http://s18.postimg.org/tf46ty0qh/Screen_Shot_2015_08_09_at_04_42_39.png)
 
 Simple node app to watch your artifacts during CI(Jenkins, Teamcity, etc.).
